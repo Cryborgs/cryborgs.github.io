@@ -156,8 +156,63 @@ font-face {
   border-radius: 10px;
 }
 
+/*.s-intro__scroll {
+    width         : 18rem;
+    height        : 8.8rem;
+    padding-right : 3rem;
+    border-right  : 1px dashed rgba(255, 255, 255, 0.3);
+    text-align    : right;
+    position      : absolute;
+    bottom        : 0;
+    right         : var(--gutter);
+}
 
+.s-intro__scroll .scroll-text {
+    font-family : var(--font-1);
+    font-weight : 300;
+    font-size   : var(--text-sm);
+    color       : white;
+    margin-top  : var(--vspace-0_625);
+}
 
+.s-intro__scroll .end-top {
+    background-color : white;
+    width            : 6px;
+    height           : 6px;
+    border-radius    : 50%;
+    position         : absolute;
+    top              : -6px;
+    right            : -4px;
+}
+
+.s-intro__scroll .mouse {
+    z-index           : 2;
+    height            : 3.8rem;
+    width             : 2.5rem;
+    border            : 3px solid white;
+    border-radius     : 12px;
+    display           : block;
+    text-align        : center;
+    position          : absolute;
+    right             : -1.3rem;
+    top               : 1.4rem;
+    -webkit-animation : vertical 3s ease infinite;
+    animation         : vertical 3s ease infinite;
+}
+
+.s-intro__scroll .mouse::before {
+    content          : "";
+    display          : block;
+    height           : 5px;
+    width            : 3px;
+    background-color : white;
+    border-radius    : 2px;
+    margin-left      : -1.5px;
+    position         : absolute;
+    top              : 6px;
+    left             : 50%;
+}
+*/
 
 /*==================================================================
    WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE  
