@@ -243,11 +243,11 @@ font-face {
   height: 100%;
   top: 0;
   left: 0;
-  background: #7579ff;
-  background: -webkit-linear-gradient(top, #6600cc, #000);
-  background: -o-linear-gradient(top, #6600cc, #000);
-  background: -moz-linear-gradient(top, #6600cc, #000);
-  background: linear-gradient(top, #6600cc, #000);
+  background: #a52a2a;
+  background: -webkit-linear-gradient(top, #a52a2a, #000);
+  background: -o-linear-gradient(top, #a52a2a, #000);
+  background: -moz-linear-gradient(top, #a52a2a, #000);
+  background: linear-gradient(top, #a52a2a, #000);
   opacity: 0.8;
 }
 
